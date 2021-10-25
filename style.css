@@ -201,11 +201,6 @@ html{
         transition: all 0.7s ease-out;
         height: 400px;
     }
-    .secondhalf{
-        display:flex;
-    justify-content:center;
-    align-items:center;
-    }
     .rightnav{
         text-align: center;
     }
@@ -239,5 +234,13 @@ html{
     }
     .paras{
         padding: 0px;
+    }
+}
+@media only screen and (max-width:636px)
+{
+    .secondhalf{
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 }
