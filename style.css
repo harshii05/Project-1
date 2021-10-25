@@ -245,6 +245,7 @@ html{
     }
     .secondhalf img{
         border-radius: 0;
-        height:100px;
-        width:100px;
+        height: 100px;
+        width: 100px;
+    }
 }
